@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ConOLeary&style=flat-square&color=yellow)
+![](https://komarev.com/ghpvc/?username=ConOLeary&style=flat-square&color=yellow&label=#+page+load+since+5/8/2020)
 
 <!--
 **ConOLeary/ConOLeary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
