@@ -1,5 +1,5 @@
 **_What's been up?_**</br>
-The bulk of my recent commits are in a private repo where i'm developing a web app game.
+Mostly just programming for work these days. Still peddling the odd project from time to time.
 
 **\~ Stats \~**</br>
 ![](https://komarev.com/ghpvc/?username=ConOLeary&style=flat-square&color=yellow&label=Nth+page+load+since+5th+Aug+2021)
