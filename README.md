@@ -1,4 +1,5 @@
-Mostly just programming for work these days. Still peddling the odd project here and there.
+Check out my quiz!
+politicalcompass.io
 
 ![](https://komarev.com/ghpvc/?username=ConOLeary&style=flat-square&color=yellow&label=Nth+page+load+since+5th+Aug+2021)
 
