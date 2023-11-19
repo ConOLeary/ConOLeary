@@ -1,6 +1,7 @@
-Check out my quiz!
-politicalcompass.io
-
+Check out my quiz!\
+[PoliticalCompass.io](https://www.politicalcompass.io)\
+\
+\
 ![](https://komarev.com/ghpvc/?username=ConOLeary&style=flat-square&color=yellow&label=Nth+page+load+since+5th+Aug+2021)
 
 <!--
